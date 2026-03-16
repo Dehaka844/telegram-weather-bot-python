@@ -1,0 +1,11 @@
+# Variables de entorno (claves secretas)
+.env
+
+# Entorno virtual
+venv/
+__pycache__/
+*.py[cod]
+
+# IDEs
+.vscode/
+.idea/
